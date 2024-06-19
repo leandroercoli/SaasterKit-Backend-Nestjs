@@ -1,6 +1,6 @@
 # SaasterKit Backend: The Nest.js Boilerplate Kit for SaaS Apps
 
-Welcome to SaasterKit, a comprehensive solution designed to streamline the development process and accelerate the creation of modern web applications. This Nest.js Boilerplate Kit aims to address the common pain point of spending an excessive amount of time on boilerplate code setup by providing a solid foundation with essential features pre-configured, allowing you to **focus on implementing the core business logic quickly and efficiently.**
+Welcome to SaasterKit, a comprehensive solution designed to simplify the development process and accelerate the creation of modern web applications. This Nest.js Boilerplate Kit aims to address the common pain point of spending an excessive amount of time on boilerplate code setup by providing a solid foundation with essential features pre-configured, allowing you to **focus on implementing the core business logic quickly and efficiently.**
 
 👀 If you're looking for a **Next.js** Boilerplate kit instead, [check this link](https://saasterkit.vercel.app).
 
